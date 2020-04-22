@@ -46,8 +46,18 @@
 							<form method="post" action="http://www2.gonzalonazareno.org/josedom/resultado.php">
 								<div class="row gtr-50">
 									<div class="col-6 col-12-small">
-										<input type="text" name="name" id="contact-name" placeholder="Nombre" />
+										<input type="text" name="nombre" id="nombre-contacto" placeholder="Nombre" />
 									</div>
+									<div class="col-6 col-12-small">
+										<input type="text" name="apellido" id="apellido-contacto" placeholder="Apellidos" />
+									</div>
+									<div class="col-6 col-12-small">
+										<p>Que va a enviar:</p>
+										<select name="envio">
+                							<option value="Foto">Foto Receta</option>
+                							<option value="Receta">Receta</option>
+        								</select>
+        							</div>
 									<div class="col-6 col-12-small">
 										<input type="text" name="email" id="contact-email" placeholder="Email" />
 									</div>

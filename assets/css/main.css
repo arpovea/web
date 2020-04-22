@@ -1483,7 +1483,7 @@ input, select, textarea {
 		}
 
 			table.default tbody tr:nth-child(2n+2) {
-				background: #ff0000;
+				background: #000000;
 			}
 
 			table.default td {
@@ -1498,11 +1498,11 @@ input, select, textarea {
 
 			table.default thead {
 				background: #484d55;
-				color: #fff;
+				color: #000000;
 			}
 
 			table.default tfoot {
-				background: #1f1f1f;
+				background: #000000;
 			}
 
 /* Form */

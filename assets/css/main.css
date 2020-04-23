@@ -1621,7 +1621,7 @@ input, select, textarea {
 			width: 100%;
 			margin: 0 0 2em 0;
 		}
-#recetas {
+.recetas {
 display:block;
 margin:auto;
 }

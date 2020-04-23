@@ -1621,31 +1621,34 @@ input, select, textarea {
 			width: 100%;
 			margin: 0 0 2em 0;
 		}
+#recetas {
+display: block;
+margin: auto;
+}
 #foto1 {
-display:block;
-margin:auto;
+display: block;
+margin: auto;
 }
 #foto2 {
-display:block;
-margin:auto;
+display: block;
+margin: auto;
 }
 #foto3 {
-display:block;
-margin:auto;
+display: block;
+margin: auto;
 }
 #foto4 {
-display:block;
-margin:auto;
+display: block;
+margin: auto;
 }
 #foto5 {
-display:block;
-margin:auto;
+display: block;
+margin: auto;
 }
 #foto6 {
-display:block;
-margin:auto;
+display: block;
+margin: auto;
 }
-
 
 /* Button */
 

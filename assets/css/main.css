@@ -1587,7 +1587,7 @@ input, select, textarea {
 
 /* Image */
 
-.recetas {
+img.recetas {
 display:block;
 margin:auto;
 }
